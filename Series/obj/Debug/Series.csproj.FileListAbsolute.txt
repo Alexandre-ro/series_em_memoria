@@ -1,0 +1,7 @@
+G:\MEUS PROJETOS\.NET\Series\Series\bin\Debug\Series.exe.config
+G:\MEUS PROJETOS\.NET\Series\Series\bin\Debug\Series.exe
+G:\MEUS PROJETOS\.NET\Series\Series\bin\Debug\Series.pdb
+G:\MEUS PROJETOS\.NET\Series\Series\obj\Debug\Series.csprojAssemblyReference.cache
+G:\MEUS PROJETOS\.NET\Series\Series\obj\Debug\Series.csproj.CoreCompileInputs.cache
+G:\MEUS PROJETOS\.NET\Series\Series\obj\Debug\Series.exe
+G:\MEUS PROJETOS\.NET\Series\Series\obj\Debug\Series.pdb
